@@ -1,5 +1,8 @@
 # Curso de React + Projeto Costs
 ## Hora de Codar (Matheus Battisti)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLGH05S0K58Woi7XEr1h2uQbW5pA8De5ik)
+
 ### Lista de aulas
 
 Aula 01 - Introdução  
@@ -38,3 +41,4 @@ Aula 33 - Criando área de serviços
 Aula 34 - Adicionando novos serviços  
 Aula 35 - Exibindo os serviços  
 Aula 36 - Removendo serviços  
+Aula 37 - Ajustando o projeto para o React Router 6  
