@@ -1,9 +1,13 @@
 # Curso de React + Projeto Costs
 ## Hora de Codar (Matheus Battisti)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLGH05S0K58Woi7XEr1h2uQbW5pA8De5ik)
+### Instalação de dependências
 
-### Lista de aulas
+```bash
+npm install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLGH05S0K58Woi7XEr1h2uQbW5pA8De5ik)
 
 Aula 01 - Introdução  
 Aula 02 - Instalando o React  
